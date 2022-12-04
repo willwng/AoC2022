@@ -2,6 +2,6 @@
 it returns
 | Day | Language |
 |:---:|:-------------:|
-|  1  | Python  | 
+|  1  | Xi | 
 | 2 | Fortran |
 | 3 | Java |
