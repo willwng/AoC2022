@@ -5,3 +5,4 @@ it returns
 |  1  | Xi | 
 | 2 | Fortran |
 | 3 | Java |
+| 4 | Rust |
